@@ -22,6 +22,7 @@ Last Updated: 29-Mar-2025
 | May | 12/05/2025 - 13/05/2025 | Adelaide, South Australia, Australia | [BSides Adelaide](https://www.bsidesadelaide.com.au/) | Unknown |
 | May | 20/05/2025 - 23/05/2025 | Gold Coast, Queensland, Australia | [AusCERT](https://conference.auscert.org.au/) | 700 |
 | May | 22/05/2025 - 23/05/2025 | Singapore, Singapore | [Infosec in the City](https://www.infosec-city.com/) | ~600 |
+| May | 24/05/2025 | Sunshine Coast, Queensland, Australia | [Sun Con](https://sunconqld.com/) | Unknown |
 | May | 26/05/2025 - 05/30/2025 | Seoul, Korea | [TyphoonCon](https://typhooncon.com/?) | Unknown |
 | May | 28/05/2025 | Melbourne, Victoria, Australia | [Government Cyber Security Showcase Victoria](https://publicsectornetwork.com/events/government-cyber-security-showcase-victoria-2025/) | Unknown |
 | May | 28/05/2025 - 29/05/2025 | Perth, WA, Australia | [Cyberwest Summit](https://www.cyberwestsummit.com.au/) | unknown |
@@ -86,6 +87,7 @@ Last Updated: 29-Mar-2025
 - [Realms of Cyber](https://www.realmsofcyber.com/)
 
 #### Sunshine Coast
+- [Sun Con](https://sunconqld.com/)
 - [TuskCon](http://tuskcon.org/)
 
 #### Gold Coast
